@@ -1,0 +1,21 @@
+{
+  "name": "记账本",
+  "short\_name": "记账",
+  "description": "个人收支记账工具",
+  "start\_url": "/",
+  "display": "standalone",
+  "background\_color": "#ffffff",
+  "theme\_color": "#36b37e",
+  "icons": \[
+    {
+      "src": "android/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "android/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  \]
+}

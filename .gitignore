@@ -1,0 +1,28 @@
+# 依赖
+node_modules/
+
+# JDK 下载的临时文件
+jdk.zip
+jdk17.zip
+
+# Nitron 构建产物
+money-apk/dist/
+money-apk/node_modules/
+money-apk/package-lock.json
+
+# Android Gradle 构建产物
+android-app/.gradle/
+android-app/build/
+android-app/app/build/
+android-app/local.properties
+
+# 系统文件
+$null
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
